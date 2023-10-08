@@ -42,10 +42,20 @@
             "description": "Add some telegraph link of pictures .",
             "required": false
         },
+        "ABOUT_TXT": {
+            "description": "Creator Name or Username ",
+            "value": "About_Text",
+            "required": true
+            
         "LOG_CHANNEL": {
             "description": "Bot Logs,Give a channel id with -100xxxxxxx",
             "required": true                              
         },
+        "DEV_NAME": {
+            "description": "Creator Name or Username ",
+            "value": "Muhammed",
+            "required": true
+              
         "AUTH_CHANNEL": {
             "description": "ID of channel.Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
             "required": false
