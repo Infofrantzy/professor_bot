@@ -69,7 +69,7 @@
 ### Url Shortner Variable
 * `SHORT_URL` : Url Of Shortner Site You Use
 * `SHORT_API` : Api Key Of Shortner Which You Use
-
+* 💥 `𝘈𝘉𝘖𝘜𝘛_𝘛𝘟𝘛`: 𝘌𝘯𝘵𝘦𝘳 𝘠𝘰𝘶𝘳 𝘈𝘣𝘰𝘶𝘵 𝘔𝘦𝘴𝘴𝘢𝘨𝘦
 
 ## Deploy to Heroku
 
